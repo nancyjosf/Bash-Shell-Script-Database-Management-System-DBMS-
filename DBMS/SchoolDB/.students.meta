@@ -1,0 +1,6 @@
+Table Name: students | Columns: 5
+PK:1:id:int
+Col:2:name:string
+Col:3:age:int
+Col:4:active:bool
+Col:5:birth_date:date

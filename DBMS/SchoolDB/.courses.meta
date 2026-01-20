@@ -1,0 +1,5 @@
+Table Name: courses | Columns: 4
+PK:1:course_id:int
+Col:2:title:string
+Col:3:hours:int
+Col:4:available:bool

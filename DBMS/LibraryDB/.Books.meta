@@ -1,0 +1,6 @@
+Table Name: Books | Columns: 5
+PK:1:bookID:int
+Col:2:title:string
+Col:3:isAvailable:bool
+Col:4:publishedDate:date
+Col:5:pages:int

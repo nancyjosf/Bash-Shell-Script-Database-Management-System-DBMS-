@@ -1,0 +1,6 @@
+Table Name: Members | Columns: 5
+PK:1:memberID:int
+Col:2:fullName:string
+Col:3:Phone:int
+Col:4:isActive:bool
+Col:5:joinDate:date

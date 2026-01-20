@@ -1,0 +1,5 @@
+course_id:title:hours:available
+101:Java:40:true
+102:HTML:10:false
+103:OS:15:true
+104:DS:20:false

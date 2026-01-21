@@ -19,5 +19,5 @@ Hints:
 - The Database will store as Directory on Current Script File
 - The Select of Rows displayed in screen/terminal in an Accepted/Good Format
 - Ask about columns datatypes in create table and check on them in both insert and update
--Ask about primary key in create table and check for it in the insert into table
-YOU SHOULD RUN script.sh BY ABSLOWAT BATHE
+-Ask about primary key in create table and check for it in the insert into table.
+(YOU SHOULD RUN script.sh BY ABSLOWAT BATHE)
